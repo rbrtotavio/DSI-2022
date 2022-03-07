@@ -1,6 +1,6 @@
 # dsi_app_2022
 
-A new Flutter project.
+A new DSI Flutter project.
 
 ## Getting Started
 
